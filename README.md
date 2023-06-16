@@ -18,15 +18,9 @@ Bacharelado em Analise e Desenvolvimento de Sistemas (2022-2025)
 
 ## Experiência Profissional
 
-### Mentora de Qualidade de Software na [Givisiez](https://givisiez.com.br/mentoria-jdm/quality-assurance/) (Maio 2023 - atualmente)
+### Mentora de Qualidade de Software na [Givisiez](https://givisiez.com.br/mentoria-jdm/quality-assurance/) e na [SouJunior](https://www.soujunior.tech/) (Abril 2023 - atualmente)
 
-Na Givisiez:
-
-Oriento e aconselho em projetos, atividades, processos de garantia de qualidade, melhores práticas, ferramentas relevantes e demais questionamentos sobre a área de QA e testes. Sempre fornecendo feedback construtivo, oferecendo suporte técnico e promovendo um ambiente de aprendizado contínuo. Além disso, estou sempre atualizado sobre as tendências e avanços na área de qualidade de software para garantir que possa fornecer as informações mais relevantes e atualizadas.
-
-### Mentora de Qualidade de Software na [SouJunior](https://www.soujunior.tech/) (Abril 2023 - atualmente)
-
-Na SouJunior:
+Na Givisiez e na SouJunior:
 
 Oriento e aconselho em projetos, atividades, processos de garantia de qualidade, melhores práticas, ferramentas relevantes e demais questionamentos sobre a área de QA e testes. Sempre fornecendo feedback construtivo, oferecendo suporte técnico e promovendo um ambiente de aprendizado contínuo. Além disso, estou sempre atualizado sobre as tendências e avanços na área de qualidade de software para garantir que possa fornecer as informações mais relevantes e atualizadas.
 
