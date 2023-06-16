@@ -1,9 +1,9 @@
 # Thaynara Dutra
 ### QA | Mentora 
 
-**E-mail:** thaynaracdutra@outlook.com
-**Telefone/WhatsApp:** +55 44 99908-4328
-**Localização:** Brasil
+* **E-mail:** thaynaracdutra@outlook.com
+* **Telefone/WhatsApp:** +55 44 99908-4328
+* **Localização:** Brasil
 
 Apaixoada por documentação, processos bem estruturados e testes automatizados. Também fã de musica, cinema e cerveja.
 
@@ -72,5 +72,5 @@ Algumas das minhas conquistas na Rakumart (China Gate) foram:
 
 ### Outros trabalhos como tester:
 
-Participação em projeto de freelance na [Workana](https://www.workana.com/pt/)
-Participação em projeto de freelance na [Crowdtest](https://crowdtest.me/home/)
+* Participação em projeto de freelance na [Workana](https://www.workana.com/pt/)
+* Participação em projeto de freelance na [Crowdtest](https://crowdtest.me/home/)
